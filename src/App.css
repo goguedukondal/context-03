@@ -1,0 +1,75 @@
+.navbar{
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  text-decoration: none;
+  margin-left: 18rem;
+}
+.link{
+  text-decoration: none;
+  /* color: white; */
+}
+.home{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 3rem;
+}
+.get{
+  font-size: 3rem;
+  font-weight: bold;
+}
+.right{
+  font-size: 3rem;
+  font-weight: bold;
+  margin-left: 1rem;
+  color:#0080ff;
+}
+.you{
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 0px;
+
+}
+.lorem{
+  margin-top: 0px;
+  margin-left:3rem ;
+}
+.inputfield{
+  height: 5rem;
+  width: 35rem;
+  background-color: white;
+  margin-left: 6rem;
+  border-radius: 50px;
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+  
+}
+.input{
+  margin-top: 2rem;
+  margin-left: 1rem;
+  width: 76%;
+  border: none;
+}
+.btn{
+  margin-top: 1.5rem;
+  margin-left: 0px;
+  border-radius: 10px;
+  background-color: #0080ff;
+  color: white;
+  border: none;
+  height:2rem;
+  width: 6rem;
+}
+.dark{
+  color:white;
+  background-color: black;
+  text-decoration: none;
+}
+.light{
+  color:black;
+  background-color: white;
+  text-decoration: none;
+}
