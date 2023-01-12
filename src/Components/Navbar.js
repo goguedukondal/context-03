@@ -2,12 +2,12 @@ import React from 'react'
 import {Link} from 'react-router-dom';
 import Button1 from './Button1';
 
- import { useContext } from 'react';
+//  import { useContext } from 'react';
 
-import contextTheme from './context';
+// import contextTheme from './context';
 
 function Navbar() {
-  const isLight = useContext(contextTheme);
+//   const isLight = useContext(contextTheme);
  
    
   return (
